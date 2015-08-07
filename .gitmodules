@@ -1,0 +1,9 @@
+[submodule "ropevim"]
+	path = ropevim
+	url = https://github.com/python-rope/ropevim.git
+[submodule "pythonx/packages/rope"]
+	path = pythonx/packages/rope
+	url = https://github.com/python-rope/rope.git
+[submodule "pythonx/packages/ropemode"]
+	path = pythonx/packages/ropemode
+	url = https://github.com/python-rope/ropemode.git

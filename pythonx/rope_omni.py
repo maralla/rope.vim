@@ -1,0 +1,1 @@
+/Users/maralla/.vim/bundle/rope.vim/ropevim/rope_omni.py
