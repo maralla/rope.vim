@@ -1,1 +1,1 @@
-/Users/maralla/.vim/bundle/rope.vim/ropevim/ropevim.py
+../ropevim/ropevim.py
